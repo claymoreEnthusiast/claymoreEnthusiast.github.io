@@ -1,15 +1,12 @@
 body {
   background-color: FF9700;
+  color: white;
   font-family: "Consolas", "Courier New", monospace;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 100px;
   margin-left: 100px;
 }
-}
 h3 {
   font-family: "Verdana", sans-serif;
-}
-p {
-  color: white;
 }
